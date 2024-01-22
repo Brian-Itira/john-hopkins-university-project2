@@ -575,7 +575,7 @@ function hmrAccept(bundle /*: ParcelRequire */ , id /*: string */ ) {
 }
 
 },{}],"4qwMp":[function(require,module,exports) {
-var _bootstrap = require("bootstrap");
+/* eslint-disable no-unused-vars */ var _bootstrap = require("bootstrap");
 var _stylesScss = require("../scss/styles.scss");
 
 },{"bootstrap":"h36JB","../scss/styles.scss":"9FwRA"}],"h36JB":[function(require,module,exports) {
