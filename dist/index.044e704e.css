@@ -13207,13 +13207,25 @@ body {
   color: #fff;
   background-color: #61122f;
   font-family: Comfortaa, sans-serif;
-  font-size: 16px;
 }
 
 #header-nav {
   border: 0;
   border-radius: 0;
   background-color: #f6b319 !important;
+}
+
+#logo-img {
+  border-radius: 50%;
+}
+
+.navbar-brand {
+  display: inline-block;
+}
+
+#nav-h1 {
+  color: #fff;
+  text-decoration: none;
 }
 
 /*# sourceMappingURL=index.044e704e.css.map */
