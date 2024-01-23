@@ -13228,4 +13228,13 @@ body {
   text-decoration: none;
 }
 
+#menu-tile, #specials-tile, #map-tile {
+  border: 2px solid #3f0c1f;
+  width: 100%;
+  height: 250px;
+  margin-bottom: 15px;
+  position: relative;
+  overflow: hidden;
+}
+
 /*# sourceMappingURL=index.044e704e.css.map */
